@@ -1,0 +1,14 @@
+
+.card {
+    margin: 0;
+    display: inline-table;
+    padding-top: 0;
+}
+
+.main {
+    margin-top: 91px;
+}
+
+.cont:hover .image {
+    opacity: 0.4;
+  }
